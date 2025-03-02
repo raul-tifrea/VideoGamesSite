@@ -1,0 +1,47 @@
+
+
+.flex-equal > * {
+  flex: 1;
+}
+@media (min-width: 768px) {
+  .flex-md-equal > * {
+    flex: 1;
+  }
+}
+.mark{
+  background-color:black;
+}
+
+#principal{
+  background-image: url("allgames.jpg");
+}
+
+#TheLastOfUs{
+  background-image: url("thelast.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#GTA5{
+  background-image: url("gta5.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#Portal2{
+  background-image: url("portal2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#Witcher3{
+  background-image: url("w3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#SkyRim{
+  background-image: url("Skyrim.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
